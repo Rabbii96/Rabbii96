@@ -16,7 +16,7 @@ I am a Software QA Engineer with strong engineering professional with a Bachelor
 Skills & Proficiencies
 📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
-📕 Programming Language: Java, Python, C, JavaScript, HTML, CSS
+📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
 
 📗 Tools & Framework:  Jmeter, GitHub
 
