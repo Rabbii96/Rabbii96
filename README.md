@@ -3,7 +3,7 @@ Assalamu Alaikum!
 
 This is Fazle Rabbi.
 
-I am a Software QA Engineer with strong engineering professional with a Bachelor of Science degree in Computer Science and Engineering. I'm a quick learner. Skilled in Software QA, Manual Testing, Performance Testing using JMeter, still learning new tools & technologies.
+I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study. knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.
 
 💻 I’m an SQA Engineer
 
