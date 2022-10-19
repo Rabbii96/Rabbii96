@@ -9,7 +9,7 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 
 🎯 I’m currently learning Menual Testing
 
-📧 How to reach me: You can send me email frabbi201002345@green.ac.bd
+📧 How to reach me: You can send me email frabbif96@gmail.com
 
 📫 Check my profiles: Rabbii96
 
