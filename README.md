@@ -18,6 +18,12 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 Skills & Proficiencies
 📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
+📗 Performance Testing Tool: JMeter
+
+📗 API Testing Tool: Postman
+
+📕 Security Testing Tool: Nmap
+
 📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
 
 📗 Tools & Framework:  Jmeter, GitHub
