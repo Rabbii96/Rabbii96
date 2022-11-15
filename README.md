@@ -5,7 +5,7 @@ Hi there 👋
 Assalamu Alaikum!
 
 This is Fazle Rabbi.
-I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study. knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.
+I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.
 
 💻 I’m an SQA Engineer
 
