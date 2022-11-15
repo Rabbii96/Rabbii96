@@ -1,10 +1,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/96058327/201906080-cfa1f9a5-b57c-44d9-9ed2-a69bab352fcc.png)
-Title
+
 Hi 👋, I'm
 Fazle Rabbi.
-Subtitle
+
 A passionate SQA Engineer from Bangladesh
 
 
