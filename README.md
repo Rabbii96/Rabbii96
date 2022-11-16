@@ -20,7 +20,7 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 📫 Check my profiles: Rabbii96
 
 <h1 align="left">Skills & Proficiencies</h1>
-📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause      Analysis, Bug Reporting
 
 📗 Performance Testing Tool: JMeter
 
