@@ -1,4 +1,4 @@
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/96058327/201906080-cfa1f9a5-b57c-44d9-9ed2-a69bab352fcc.png)"
+(https://camo.githubusercontent.com/91e3004c356459ce99be3561c2eeae7d6f25476ff8d62a7944c20799c23eb12a/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f536f6674776172652d546573742d4d616e6167656d656e742e676966)
 
 
 <h1 align="left">Hi 👋, I'm Fazle Rabbi</h1>
