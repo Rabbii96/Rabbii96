@@ -2,10 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/96058327/201906080-cfa1f9a5-b57c-44d9-9ed2-a69bab352fcc.png)
 
-Hi 👋, I'm
-Fazle Rabbi.
-
-A passionate SQA Engineer from Bangladesh
+<h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
 
 I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.
