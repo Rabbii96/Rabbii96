@@ -1,6 +1,5 @@
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/96058327/201906080-cfa1f9a5-b57c-44d9-9ed2-a69bab352fcc.png)"
 
-
-![image](https://user-images.githubusercontent.com/96058327/201906080-cfa1f9a5-b57c-44d9-9ed2-a69bab352fcc.png)
 
 <h1 align="left">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="left">A passionate SQA Engineer from Bangladesh</h3>
