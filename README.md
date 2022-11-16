@@ -10,7 +10,10 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 
 💻 I’m an SQA Engineer
 
-🎯 I’m currently learning Menual Testing
+🎯 I’m currently Working on Menual Testing
+
+
+🎯 I’m currently learning Automation Testing
 
 📧 How to reach me: You can send me email frabbif96@gmail.com
 
