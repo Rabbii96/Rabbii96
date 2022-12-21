@@ -24,7 +24,7 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 
 📗 Performance Testing Tool: JMeter
 
-📗 API Testing Tool: Postman Newman
+📗 API Testing Tool: Postman & Newman
 
 📕 Security Testing Tool: Nmap
 
