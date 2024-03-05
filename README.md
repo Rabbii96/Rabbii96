@@ -6,7 +6,7 @@
 <h3 align="left">A passionate SQA Engineer from Bangladesh</h3>
 
 
-I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.
+I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.I Committed and achievement-oriented QA Engineer seeking a position in a vibrant and forward-thinking software company to apply analytical skills and contribute to optimal outcomes.
 
 💻 I’m an SQA Engineer
 
