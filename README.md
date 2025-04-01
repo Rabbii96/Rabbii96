@@ -6,11 +6,11 @@
 <h3 align="left">A passionate SQA Engineer from Bangladesh</h3>
 
 
-I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education.I Committed and achievement-oriented QA Engineer seeking a position in a vibrant and forward-thinking software company to apply analytical skills and contribute to optimal outcomes.
+I hold a Bachelor of Science in Computer Science and Engineering and work as a Software QA Engineer. I'm a quick study knowledgeable about software quality assurance, manual testing, JMeter performance testing, and ongoing tool & technology education. I am a committed and achievement-oriented QA Engineer seeking a position in a vibrant and forward-thinking software company where I can apply my analytical skills and contribute to optimal outcomes.
 
 💻 I’m an SQA Engineer
 
-🎯 I’m currently Working on Menual Testing
+🎯 I’m currently Working on Manual Testing
 
 
 🎯 I’m currently learning Automation Testing
@@ -20,7 +20,7 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 📫 Check my profiles: Rabbii96
 
 <h1 align="left">Skills & Proficiencies</h1>
-📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause      Analysis, Bug Reporting
+📘 Manual Testing: Analysis of Requirements, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause      Analysis, Bug Reporting
 
 📗 Performance Testing Tool: JMeter
 
@@ -28,7 +28,7 @@ I hold a Bachelor of Science in Computer Science and Engineering and work as a S
 
 📕 Security Testing Tool: Nmap
 
-📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
+📕 Programming Language: Java, Python, C, JavaScript, HTML, CSS
 
 📗 Tools & Framework:  Jmeter, GitHub
 
