@@ -1,4 +1,4 @@
-﻿![SQA Engineer Banner](https://user-images.githubusercontent.com/96058327/202086495-c2eaec2b-cf0c-4541-8aba-4e8d90f1b466.png)
+![SQA Engineer Banner](https://user-images.githubusercontent.com/96058327/202086495-c2eaec2b-cf0c-4541-8aba-4e8d90f1b466.png)
 
 <h1 align="center">Hi , I'm Fazle Rabbi</h1>
 <h3 align="center">Senior SQA Engineer | 3+ Years Experience | Automation Expert </h3>
@@ -14,7 +14,7 @@
 
 ##  **About Me - Senior SQA Engineer**
 
-** Education:** Bachelor of Science in Computer Science and Engineering, Green University of Bangladesh
+
 
 ** Professional Journey:** 3+ years of proven expertise in **Manual & Automation Testing**, **Performance Testing**, and **Quality Assurance**. Currently leading QA initiatives at **Onnorokom Edtech Ltd** while mentoring junior engineers and driving testing excellence across web and mobile platforms.
 
@@ -129,9 +129,9 @@ Security Testing   75%
 
 | **Metric** | **Achievement** |
 |------------|----------------|
-|  **Test Cases Designed** | 450+ |
-|  **Defects Identified** | 200+ |
-|  **Automation Scripts** | 150+ |
+|  **Test Cases Designed** | 2.5K+ |
+|  **Defects Identified** | 1.2K+ |
+|  **Automation Scripts** | 800+ |
 |  **Team Members Mentored** | 3 |
 |  **Projects Delivered** | 10+ |
 |  **Test Coverage** | 99% |
@@ -233,3 +233,4 @@ Security Testing   75%
 <p align="center">
   <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Expert</i>
 </p>
+
