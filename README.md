@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Fazle%20Rabbi&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
@@ -26,16 +26,44 @@
 
 ##  **About Me - Senior QA Automation Engineer**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3>?? Professional Journey</h3>
+        <p>3+ years of <strong>game-changing expertise</strong> in Manual & Automation Testing, Performance Testing, and Quality Assurance. Currently <strong>leading QA initiatives</strong> at <strong>Onnorokom Edtech Ltd</strong> while mentoring junior engineers and driving testing excellence.</p>
+        
+        <details>
+        <summary> <strong>What I'm Currently Up To</strong></summary>
+        <ul>
+          <li> <strong>Senior SQA Engineer</strong> with passion for quality</li>
+          <li> <strong>Working on:</strong> Enterprise-level automation frameworks</li>
+          <li> <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
+          <li> <strong>Recent Win:</strong> 440/400 marks Playwright Automation Capstone</li>
+        </ul>
+        </details>
+        
+        <details>
+        <summary> <strong>Let's Connect</strong></summary>
+        <ul>
+          <li> <strong>Email:</strong> frabbif96@gmail.com</li>
+          <li> <strong>Phone:</strong> +8801521315133</li>
+          <li> <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
+        </ul>
+        </details>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Coding Animation"/>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&width=250&lines=Quality+First+Mindset;Automation+Expert;Performance+Specialist;Team+Mentor" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-** Professional Journey:** 3+ years of **game-changing expertise** in Manual & Automation Testing, Performance Testing, and Quality Assurance. Currently **leading QA initiatives** at **Onnorokom Edtech Ltd** while mentoring junior engineers and driving testing excellence.
-
--  **Senior SQA Engineer** with passion for quality
--  **Currently Working on:** Enterprise-level automation frameworks
--  **Learning:** AI-driven testing & Cloud-native QA practices
--  **Achievement:** 440/400 marks Playwright Automation Capstone
--  **Reach me:** frabbif96@gmail.com
--  **Call me:** +8801521315133
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&animation=pulse" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -309,3 +337,4 @@
 <p align="center">
   <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Architect | Quality Champion</i>
 </p>
+
