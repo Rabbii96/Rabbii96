@@ -37,7 +37,7 @@
         <summary>🎯 <strong>What I'm Currently Up To</strong></summary>
         <ul>
           <li>💻 <strong>Senior SQA Engineer</strong> with passion for quality</li>
-          <li> <strong>Working on:</strong> Enterprise-level automation frameworks</li>
+          <li>🎯 <strong>Working on:</strong> Enterprise-level automation frameworks</li>
           <li>🚀 <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
           <li> <strong>Recent Win:</strong> 440/400 marks Playwright Automation Capstone</li>
         </ul>
@@ -46,7 +46,7 @@
         <details>
         <summary> <strong>Let's Connect</strong></summary>
         <ul>
-          <li> <strong>Email:</strong> frabbif96@gmail.com</li>
+          <li>📧 <strong>Email:</strong> frabbif96@gmail.com</li>
           <li>📱 <strong>Phone:</strong> +8801521315133</li>
           <li>🔗 <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
         </ul>
@@ -333,6 +333,7 @@
 <p align="center">
   <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Architect | Quality Champion</i>
 </p>
+
 
 
 
