@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Fazle%20Rabbi&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
@@ -34,21 +34,21 @@
         <p>3+ years of <strong>game-changing expertise</strong> in Manual & Automation Testing, Performance Testing, and Quality Assurance. Currently <strong>leading QA initiatives</strong> at <strong>Onnorokom Edtech Ltd</strong> while mentoring junior engineers and driving testing excellence.</p>
         
         <details>
-        <summary>? <strong>What I'm Currently Up To</strong></summary>
+        <summary> <strong>What I'm Currently Up To</strong></summary>
         <ul>
-          <li>? <strong>Senior SQA Engineer</strong> with passion for quality</li>
-          <li>? <strong>Working on:</strong> Enterprise-level automation frameworks</li>
-          <li>? <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
-          <li>? <strong>Recent Win:</strong> 440/400 marks Playwright Automation Capstone</li>
+          <li> <strong>Senior SQA Engineer</strong> with passion for quality</li>
+          <li> <strong>Working on:</strong> Enterprise-level automation frameworks</li>
+          <li> <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
+          <li> <strong>Recent Win:</strong> 440/400 marks Playwright Automation Capstone</li>
         </ul>
         </details>
         
         <details>
-        <summary>? <strong>Let's Connect</strong></summary>
+        <summary> <strong>Let's Connect</strong></summary>
         <ul>
-          <li>? <strong>Email:</strong> frabbif96@gmail.com</li>
-          <li>? <strong>Phone:</strong> +8801521315133</li>
-          <li>? <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
+          <li> <strong>Email:</strong> frabbif96@gmail.com</li>
+          <li> <strong>Phone:</strong> +8801521315133</li>
+          <li> <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
         </ul>
         </details>
       </td>
@@ -65,10 +65,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&animation=pulse" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ---
 
 ##  **Professional Experience Timeline**
@@ -79,7 +75,7 @@
 
 ###  **Software QA Engineer** | Onnorokom Edtech Ltd | *Aug 2023 - Present*
 <details>
-<summary>? <strong>Click to see my achievements</strong></summary>
+<summary> <strong>Click to see my achievements</strong></summary>
 
 -  **Led 150+ test cases** for web & mobile learning platforms using **Selenium & Appium**
 -  **Achieved 20% reduction** in critical production defects through comprehensive testing strategies
@@ -93,7 +89,7 @@
 
 ###  **QA Specialist Engineer** | Parallaxlogic Infotech | *Jun 2022 - Jul 2023*
 <details>
-<summary>? <strong>Click to see my achievements</strong></summary>
+<summary> <strong>Click to see my achievements</strong></summary>
 
 -  **Delivered 5+ client projects** through comprehensive web, API & mobile testing
 -  **Executed 300+ test cases** using JIRA and ZeNOHUB with 95% execution rate
@@ -147,7 +143,7 @@
 ###  **Featured Projects Showcase**
 
 <details>
-<summary>? <strong>Playwright Automation Testing Capstone - AWARD WINNING</strong></summary>
+<summary> <strong>Playwright Automation Testing Capstone - AWARD WINNING</strong></summary>
 
 -  **Score:** 440/400 marks (110% achievement)
 -  **Coverage:** 8 features, 79 test scenarios, 474 cross-browser tests
@@ -158,7 +154,7 @@
 </details>
 
 <details>
-<summary>? <strong>Cypress E2E Testing | Computer Village</strong></summary>
+<summary> <strong>Cypress E2E Testing | Computer Village</strong></summary>
 
 -  **Focus:** User registration and login automation
 -  **Impact:** Comprehensive end-to-end test coverage
@@ -167,7 +163,7 @@
 </details>
 
 <details>
-<summary>? <strong>Appium Mobile Testing | Praava Health</strong></summary>
+<summary> <strong>Appium Mobile Testing | Praava Health</strong></summary>
 
 -  **Achievement:** 25% reduction in test execution time
 -  **Tech:** Appium, Page Object Model, Cross-platform testing
@@ -176,7 +172,7 @@
 </details>
 
 <details>
-<summary>? <strong>Selenium Web Automation | Tadex Platform</strong></summary>
+<summary> <strong>Selenium Web Automation | Tadex Platform</strong></summary>
 
 -  **Efficiency:** 35% increase in testing efficiency
 -  **Tech:** Java, Selenium WebDriver, TestNG, Maven
@@ -337,8 +333,3 @@
 <p align="center">
   <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Architect | Quality Champion</i>
 </p>
-
-
-
-
-
