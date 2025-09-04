@@ -30,15 +30,15 @@
   <table>
     <tr>
       <td width="60%" valign="top">
-        <h3> Professional Journey</h3>
+        <h3>💼 Professional Journey</h3>
         <p>3+ years of <strong>game-changing expertise</strong> in Manual & Automation Testing, Performance Testing, and Quality Assurance. Currently <strong>leading QA initiatives</strong> at <strong>Onnorokom Edtech Ltd</strong> while mentoring junior engineers and driving testing excellence.</p>
         
         <details>
-        <summary> <strong>What I'm Currently Up To</strong></summary>
+        <summary>🎯 <strong>What I'm Currently Up To</strong></summary>
         <ul>
-          <li> <strong>Senior SQA Engineer</strong> with passion for quality</li>
+          <li>💻 <strong>Senior SQA Engineer</strong> with passion for quality</li>
           <li> <strong>Working on:</strong> Enterprise-level automation frameworks</li>
-          <li> <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
+          <li>🚀 <strong>Learning:</strong> AI-driven testing & Cloud-native QA practices</li>
           <li> <strong>Recent Win:</strong> 440/400 marks Playwright Automation Capstone</li>
         </ul>
         </details>
@@ -47,8 +47,8 @@
         <summary> <strong>Let's Connect</strong></summary>
         <ul>
           <li> <strong>Email:</strong> frabbif96@gmail.com</li>
-          <li> <strong>Phone:</strong> +8801521315133</li>
-          <li> <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
+          <li>📱 <strong>Phone:</strong> +8801521315133</li>
+          <li>🔗 <strong>Always open to:</strong> Collaboration, Mentoring, Knowledge Sharing</li>
         </ul>
         </details>
       </td>
@@ -333,3 +333,6 @@
 <p align="center">
   <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Architect | Quality Champion</i>
 </p>
+
+
+
