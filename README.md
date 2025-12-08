@@ -47,30 +47,26 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;"/>
 
-```typescript
-const fazleRabbi = {
-    role: "SDET & DevOps QA Engineer",
-    experience: "3+ years",
-    currentCompany: "Onnorokom Edtech Ltd",
-    
-    whatIDo: [
-        "Build test infrastructure on Kubernetes",
-        "Design CI/CD pipelines with quality gates",
-        "Automate what others test manually",
-        "Catch bugs before they reach production"
-    ],
-    
-    philosophy: "Quality isn't a phase — it's a pipeline feature",
-    
-    superpower: "QA mindset + DevOps tools = Fearless releases"
-};
-```
+<table>
+<tr><td>🎯 <b>Role</b></td><td>SDET & DevOps QA Engineer</td></tr>
+<tr><td>⏱️ <b>Experience</b></td><td>3+ years in Production</td></tr>
+<tr><td>🏢 <b>Company</b></td><td>Onnorokom Edtech Ltd</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Bangladesh 🇧🇩</td></tr>
+<tr><td>💡 <b>Philosophy</b></td><td><i>"Quality isn't a phase — it's a pipeline feature"</i></td></tr>
+</table>
 
 <br>
 
-### 🎯 **Why I'm Different**
+### ⚡ What I Do
 
-> *"I got tired of being the last checkpoint before disaster. So I learned to shift quality left — into the infrastructure itself."*
+- 🐳 Build test infrastructure on **Kubernetes**
+- 🔄 Design **CI/CD pipelines** with quality gates  
+- ⚙️ Automate what others test manually
+- 🛡️ Catch bugs **before** they reach production
+
+<br>
+
+> **🦸 Superpower:** QA mindset + DevOps tools = Fearless releases
 
 <br clear="right"/>
 
@@ -154,28 +150,35 @@ const fazleRabbi = {
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+### **🔌 API & Tools**
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_Assured-43B02A?style=for-the-badge&logo=rest&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </div>
 
 ---
 
-## 📈 **Career Journey**
+## 📈 **Career Evolution**
 
-```mermaid
-timeline
-    title My Evolution: From Tester to SDET
-    2022 : Manual Testing
-         : First Automation Scripts
-         : Parallaxlogic Infotech
-    2023 : Selenium & Appium Expert
-         : Joined Onnorokom EdTech
-         : Started Learning DevOps
-    2024 : Docker & Kubernetes
-         : CI/CD Pipeline Design
-         : Performance Testing (K6)
-    2025 : SDET & DevOps QA
-         : Test Infrastructure
-         : Cloud-Native Testing
+<div align="center">
+
 ```
+📅 2022                    📅 2023                    📅 2024                    📅 2025
+   │                          │                          │                          │
+   ▼                          ▼                          ▼                          ▼
+┌─────────────┐          ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
+│  Manual     │    ──►   │  Selenium   │    ──►   │  Docker &   │    ──►   │  SDET &     │
+│  Testing    │          │  & Appium   │          │  Kubernetes │          │  DevOps QA  │
+│  Basics     │          │  Expert     │          │  CI/CD      │          │  Engineer   │
+└─────────────┘          └─────────────┘          └─────────────┘          └─────────────┘
+       │                        │                        │                        │
+ Parallaxlogic           Onnorokom EdTech          Performance            Test Infrastructure
+   Infotech                  Ltd                    Testing (K6)            & Cloud-Native
+```
+
+</div>
 
 ---
 
@@ -195,8 +198,12 @@ timeline
 | Built containerized test environments | **Docker + K8s** for consistent testing |
 | Mentored junior QA engineers | Team efficiency improved by **15%** |
 | Reduced production defects | **20% fewer** critical bugs |
+| Maintained test coverage | **99%** coverage with automated scripts |
+| Agile collaboration | 2-week sprints with 8 developers |
 
 </details>
+
+---
 
 ### <img src="https://img.shields.io/badge/🏢-Parallaxlogic_Infotech-4ecdc4?style=flat-square" /> **QA Specialist Engineer** | *Jun 2022 - Jul 2023*
 
@@ -207,9 +214,11 @@ timeline
 | What I Did | Impact |
 |------------|--------|
 | Delivered 5+ client projects | Web, API & Mobile testing |
-| Executed 300+ test cases | **95%** execution rate |
+| Executed 300+ test cases | **95%** execution rate with JIRA |
+| Tracked 200+ defects | Timely resolution & quality improvement |
 | Implemented automation frameworks | **40% less** manual effort |
 | Cross-browser testing | **10% fewer** compatibility issues |
+| Functional & regression testing | Application stability ensured |
 
 </details>
 
@@ -232,20 +241,29 @@ timeline
   </table>
 </div>
 
-```
-Tech Stack: Playwright + Node.js + Page Object Model
-Browsers: Chrome | Firefox | Edge | Safari | Mobile
-```
+<div align="center">
+  
+**Tech Stack:** `Playwright` `Node.js` `Page Object Model` `Cross-browser Testing`
+
+**Browsers:** Chrome | Firefox | Edge | Safari | Mobile
+
+</div>
+
+---
+
+### 📂 **More Projects**
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><b>🔍 Click to expand all projects</b></summary>
+<br>
 
-| Project | Tech | Impact |
-|---------|------|--------|
-| **Cypress E2E** - Computer Village | Cypress, JavaScript, POM | Full registration & login automation |
-| **Appium Mobile** - Praava Health | Appium, Cross-platform | **25% faster** test execution |
-| **Selenium Web** - Tadex Platform | Java, Selenium, TestNG | **35%** efficiency increase |
-| **K6 Performance** - Load Testing | K6, JavaScript | Production bottleneck identification |
+| Project | Tech Stack | Impact |
+|---------|------------|--------|
+| **🌐 Cypress E2E** - Computer Village | Cypress, JavaScript, POM | Full registration & login automation |
+| **📱 Appium Mobile** - Praava Health | Appium, Cross-platform | **25% faster** test execution |
+| **🖥️ Selenium Web** - Tadex Platform | Java, Selenium, TestNG, Maven | **35%** efficiency increase |
+| **⚡ K6 Performance** - Load Testing | K6, JavaScript | Production bottleneck identification |
+| **🔌 API Testing** - REST Services | Postman, Newman, REST Assured | Comprehensive API coverage |
 
 </details>
 
@@ -322,9 +340,15 @@ Browsers: Chrome | Firefox | Edge | Safari | Mobile
 ---
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rabbii96&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=150&section=footer&animation=twinkling" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3500&color=38ef7d&lines=Quality+is+not+a+phase;It's+a+feature+of+the+pipeline;Let's+make+releases+fearless!+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3500&color=38ef7d&lines=Quality+is+not+a+phase;It's+a+feature+of+the+pipeline;Let's+make+releases+fearless!" />
   
   <br><br>
   
