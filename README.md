@@ -1,328 +1,337 @@
-﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Fazle%20Rabbi&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=300&section=header&text=Fazle%20Rabbi&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=I%20Build%20Systems%20That%20Catch%20Bugs%20Before%20Humans%20Do&descAlignY=55&descSize=20" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Fazle+Rabbi!;Senior+SQA+Engineer+;3%2B+Years+Experience+;Automation+Expert+;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=SDET+%26+DevOps+QA+Engineer;I+Automate+What+Others+Test+Manually;Quality+%2B+Infrastructure+%3D+My+Superpower;3%2B+Years+Breaking+Software+Professionally" />
 </h1>
 
+<!-- HERO BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Senior%20SQA%20Engineer-3%2B%20Years-ff6b6b?style=for-the-badge&logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation%20Expert-K6%20Specialist-4ecdc4?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh%20-45b7d1?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_SDET-DevOps_QA_Engineer-00d4aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐳_Docker-Kubernetes-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_AWS-Cloud_Native-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_3%2B_Years-Production_Experience-ff6b6b?style=for-the-badge" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabbii96&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rabbii96?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/rabbii96?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-##  **About Me - Senior QA Automation Engineer**
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;"/>
-
-###  **Professional Journey**
-**3+ years of game-changing expertise** in Manual & Automation Testing, Performance Testing, and Quality Assurance. Currently **leading QA initiatives** at **Onnorokom Edtech Ltd** while mentoring junior engineers and driving testing excellence.
 
 <br>
 
-<details>
-<summary> <strong>What I'm Currently Up To</strong></summary>
-
--  **Senior SQA Engineer** with passion for quality
--  **Working on:** Enterprise-level automation frameworks  
--  **Learning:** AI-driven testing & Cloud-native QA practices
--  **Recent Win:** 440/400 marks Playwright Automation Capstone
-
-</details>
-
-<details>
-<summary> <strong>Let's Connect & Collaborate</strong></summary>
-
--  **Email:** [frabbif96@gmail.com](mailto:frabbif96@gmail.com)
--  **Phone:** [+8801521315133](tel:+8801521315133)  
--  **Always open to:** Collaboration  Mentoring  Knowledge Sharing
-
-</details>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Quality+First+Mindset+;Automation+Expert+;Performance+Specialist+;Team+Mentor+;3%2B+Years+Experience+" alt="Typing SVG" />
-</div>
-
-<br clear="right"/>
-
----
-
-##  **Professional Experience Timeline**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbii96&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-</div>
-
-###  **Software QA Engineer** | Onnorokom Edtech Ltd | *Aug 2023 - Present*
-<details>
-<summary> <strong>Click to see my achievements</strong></summary>
-
--  **Led 150+ test cases** for web & mobile learning platforms using **Selenium & Appium**
--  **Achieved 20% reduction** in critical production defects through comprehensive testing strategies
--  **Collaborated with Agile team** of 8 developers in 2-week sprints for timely releases
--  **Maintained 99% test coverage** with comprehensive automated test scripts
--  **Reduced regression testing time by 30%** through optimized testing processes
--  **Mentored 3 junior QA engineers**, improving team efficiency by 15%
--  **Spearheaded K6 performance testing** implementation across all projects
-
-</details>
-
-###  **QA Specialist Engineer** | Parallaxlogic Infotech | *Jun 2022 - Jul 2023*
-<details>
-<summary> <strong>Click to see my achievements</strong></summary>
-
--  **Delivered 5+ client projects** through comprehensive web, API & mobile testing
--  **Executed 300+ test cases** using JIRA and ZeNOHUB with 95% execution rate
--  **Tracked 200+ defects** ensuring timely resolution and improved software quality
--  **Reduced cross-browser compatibility issues by 10%** through extensive testing
--  **Conducted functional, regression & integration testing** for application stability
--  **Implemented automation frameworks** reducing manual testing effort by 40%
-
-</details>
-
----
-
-##  **Technical Arsenal**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,playwright,cypress,javascript,java,python,docker,jenkins,git,postman,mysql,linux&theme=dark" />
-</div>
-
-###  **Testing Expertise Matrix**
-<div align="center">
-  
-| **Domain** | **Tools & Frameworks** | **Expertise Level** |
-|------------|------------------------|---------------------|
-|  **Automation Testing** | Playwright, Selenium, Cypress, Appium, Robot Framework |  **Expert** |
-|  **Performance Testing** | **K6 (Specialist)**, JMeter, Locust, Gatling, Taurus |  **Expert** |
-|  **Mobile Testing** | Appium, Espresso, XCUITest, BrowserStack |  **Advanced** |
-|  **Security Testing** | Burp Suite, OWASP ZAP, Nmap, SQLMap |  **Advanced** |
-|  **API Testing** | Postman, Newman, REST Assured, Insomnia |  **Expert** |
-|  **Test Frameworks** | TestNG, JUnit, Mocha, Jest, PyTest |  **Expert** |
-
+  <a href="https://www.linkedin.com/in/frabbii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:frabbif96@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rabbii96"><img src="https://img.shields.io/github/followers/rabbii96?label=Follow&style=for-the-badge&color=blue" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rabbii96&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </div>
 
 ---
 
-##  **Hall of Fame Projects**
-
+<!-- UNIQUE VALUE PROPOSITION -->
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabbii96&repo=automation-capstone&theme=tokyonight&border_radius=10" />
-        <br />
-        <strong> Playwright Capstone</strong>
-        <br />
-        <em>440/400 marks (110%)</em>
+      <td align="center" width="50%">
+        <h3>❌ What Most QA Engineers Do</h3>
+        <p>Test → Find Bugs → Report → Wait → Retest</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>✅ What I Do</h3>
+        <p>Commit → Auto-Test → Pass/Fail in Minutes → Ship</p>
       </td>
     </tr>
   </table>
 </div>
 
-###  **Featured Projects Showcase**
+---
 
-<details>
-<summary> <strong>Playwright Automation Testing Capstone - AWARD WINNING</strong></summary>
+## 🚀 **The Engineer Who Bridges QA & DevOps**
 
--  **Score:** 440/400 marks (110% achievement)
--  **Coverage:** 8 features, 79 test scenarios, 474 cross-browser tests
--  **Tech Stack:** Playwright, Node.js, Page Object Model, Cross-browser testing
--  **Browsers:** Chrome, Firefox, Edge, Safari, Mobile
--  **Repository:** [automation-capstone](https://github.com/Rabbii96/automation-capstone)
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;"/>
 
-</details>
+```typescript
+const fazleRabbi = {
+    role: "SDET & DevOps QA Engineer",
+    experience: "3+ years",
+    currentCompany: "Onnorokom Edtech Ltd",
+    
+    whatIDo: [
+        "Build test infrastructure on Kubernetes",
+        "Design CI/CD pipelines with quality gates",
+        "Automate what others test manually",
+        "Catch bugs before they reach production"
+    ],
+    
+    philosophy: "Quality isn't a phase — it's a pipeline feature",
+    
+    superpower: "QA mindset + DevOps tools = Fearless releases"
+};
+```
 
-<details>
-<summary> <strong>Cypress E2E Testing | Computer Village</strong></summary>
+<br>
 
--  **Focus:** User registration and login automation
--  **Impact:** Comprehensive end-to-end test coverage
--  **Tech:** Cypress, JavaScript, Page Object Model
+### 🎯 **Why I'm Different**
 
-</details>
+> *"I got tired of being the last checkpoint before disaster. So I learned to shift quality left — into the infrastructure itself."*
 
-<details>
-<summary> <strong>Appium Mobile Testing | Praava Health</strong></summary>
-
--  **Achievement:** 25% reduction in test execution time
--  **Tech:** Appium, Page Object Model, Cross-platform testing
--  **Platforms:** Android & iOS native applications
-
-</details>
-
-<details>
-<summary> <strong>Selenium Web Automation | Tadex Platform</strong></summary>
-
--  **Efficiency:** 35% increase in testing efficiency
--  **Tech:** Java, Selenium WebDriver, TestNG, Maven
--  **Architecture:** Robust automation framework with CI/CD integration
-
-</details>
+<br clear="right"/>
 
 ---
 
-##  **Professional Impact Metrics**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabbii96&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4" />
-</div>
+## 💼 **Impact Dashboard**
 
 <div align="center">
   <table>
     <tr>
-      <th> Metric</th>
-      <th> Achievement</th>
-      <th> Impact</th>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2.5K%2B-Test_Cases-00d4aa?style=for-the-badge" />
+        <br><sub>Designed & Executed</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/800%2B-Automation_Scripts-7D64FF?style=for-the-badge" />
+        <br><sub>Production Ready</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/30%25-Faster_Releases-38ef7d?style=for-the-badge" />
+        <br><sub>Regression Time ↓</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/99%25-Test_Coverage-ff6b6b?style=for-the-badge" />
+        <br><sub>Maintained</sub>
+      </td>
     </tr>
     <tr>
-      <td> <strong>Test Cases Designed</strong></td>
-      <td><strong>2.5K+</strong></td>
-      <td> Comprehensive Coverage</td>
-    </tr>
-    <tr>
-      <td> <strong>Defects Identified</strong></td>
-      <td><strong>1.2K+</strong></td>
-      <td> Quality Champion</td>
-    </tr>
-    <tr>
-      <td> <strong>Automation Scripts</strong></td>
-      <td><strong>800+</strong></td>
-      <td> Automation Expert</td>
-    </tr>
-    <tr>
-      <td> <strong>Team Members Mentored</strong></td>
-      <td><strong>5+</strong></td>
-      <td> Leadership Excellence</td>
-    </tr>
-    <tr>
-      <td> <strong>Projects Delivered</strong></td>
-      <td><strong>15+</strong></td>
-      <td> Proven Track Record</td>
-    </tr>
-    <tr>
-      <td> <strong>Test Coverage</strong></td>
-      <td><strong>99%</strong></td>
-      <td> Perfection Standard</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/20%25-Less_Prod_Bugs-4ecdc4?style=for-the-badge" />
+        <br><sub>Defect Reduction</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/15%2B-Projects_Shipped-FF9900?style=for-the-badge" />
+        <br><sub>Delivered</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/5%2B-Engineers_Mentored-0077B5?style=for-the-badge" />
+        <br><sub>Team Growth</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/110%25-Capstone_Score-gold?style=for-the-badge" />
+        <br><sub>440/400 marks</sub>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-##  **Let's Connect & Collaborate**
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/frabbii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
-  </a>
-  <a href="https://github.com/Rabbii96" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:frabbif96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+8801521315133" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-##  **Technology Mastery**
-
-<div align="center">
-  
-### **Testing Frameworks**
+### **🧪 Test Automation**
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" />
 
-### **Performance Testing**
+### **🐳 DevOps & Infrastructure**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+
+### **⚡ Performance Testing**
 <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/Locust-9FE856?style=for-the-badge&logo=locust&logoColor=black" />
 
-### **Programming Languages**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-### **DevOps & CI/CD**
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### **🔄 CI/CD Pipeline**
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+### **💻 Programming**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
 ---
 
-##  **GitHub Analytics Dashboard**
+## 📈 **Career Journey**
+
+```mermaid
+timeline
+    title My Evolution: From Tester to SDET
+    2022 : Manual Testing
+         : First Automation Scripts
+         : Parallaxlogic Infotech
+    2023 : Selenium & Appium Expert
+         : Joined Onnorokom EdTech
+         : Started Learning DevOps
+    2024 : Docker & Kubernetes
+         : CI/CD Pipeline Design
+         : Performance Testing (K6)
+    2025 : SDET & DevOps QA
+         : Test Infrastructure
+         : Cloud-Native Testing
+```
+
+---
+
+## 💼 **Professional Experience**
+
+### <img src="https://img.shields.io/badge/🏢-Onnorokom_EdTech_Ltd-00d4aa?style=flat-square" /> **Software QA Engineer** | *Aug 2023 - Present*
+
+<details>
+<summary><b>🔥 Click to see what I built here</b></summary>
+<br>
+
+| What I Did | Impact |
+|------------|--------|
+| Led automation for web & mobile apps | 150+ test cases with **Selenium & Appium** |
+| Implemented K6 performance testing | Identified bottlenecks before production |
+| Designed CI/CD quality gates | **30% faster** regression cycles |
+| Built containerized test environments | **Docker + K8s** for consistent testing |
+| Mentored junior QA engineers | Team efficiency improved by **15%** |
+| Reduced production defects | **20% fewer** critical bugs |
+
+</details>
+
+### <img src="https://img.shields.io/badge/🏢-Parallaxlogic_Infotech-4ecdc4?style=flat-square" /> **QA Specialist Engineer** | *Jun 2022 - Jul 2023*
+
+<details>
+<summary><b>🔥 Click to see my foundation work</b></summary>
+<br>
+
+| What I Did | Impact |
+|------------|--------|
+| Delivered 5+ client projects | Web, API & Mobile testing |
+| Executed 300+ test cases | **95%** execution rate |
+| Implemented automation frameworks | **40% less** manual effort |
+| Cross-browser testing | **10% fewer** compatibility issues |
+
+</details>
+
+---
+
+## 🏆 **Featured Project: Award-Winning Capstone**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbii96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbii96&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabbii96&repo=automation-capstone&theme=tokyonight&border_radius=15" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbii96&theme=tokyonight&border_radius=10" />
+  <table>
+    <tr>
+      <td align="center">🎯 <b>Score</b><br><code>440/400</code><br>(110%)</td>
+      <td align="center">📋 <b>Test Scenarios</b><br><code>79</code></td>
+      <td align="center">🌐 <b>Cross-Browser Tests</b><br><code>474</code></td>
+      <td align="center">⚡ <b>Features Covered</b><br><code>8</code></td>
+    </tr>
+  </table>
+</div>
+
+```
+Tech Stack: Playwright + Node.js + Page Object Model
+Browsers: Chrome | Firefox | Edge | Safari | Mobile
+```
+
+<details>
+<summary><b>📂 More Projects</b></summary>
+
+| Project | Tech | Impact |
+|---------|------|--------|
+| **Cypress E2E** - Computer Village | Cypress, JavaScript, POM | Full registration & login automation |
+| **Appium Mobile** - Praava Health | Appium, Cross-platform | **25% faster** test execution |
+| **Selenium Web** - Tadex Platform | Java, Selenium, TestNG | **35%** efficiency increase |
+| **K6 Performance** - Load Testing | K6, JavaScript | Production bottleneck identification |
+
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbii96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbii96&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&bg_color=0d1117&title_color=38ef7d" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbii96&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbii96&theme=tokyonight&border_radius=15&background=0d1117&ring=38ef7d&fire=ff6b6b&currStreakLabel=38ef7d" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbii96&theme=tokyo-night&bg_color=0d1117&color=38ef7d&line=38ef7d&point=ff6b6b&area=true&hide_border=true&border_radius=15" />
 </div>
 
 ---
 
-##  **What Drives Me**
+## 🎯 **What I'm Looking For**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Quality%20is%20not%20an%20act,%20it%20is%20a%20habit&author=Aristotle" />
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🔥 Open To</h3>
+        <code>SDET</code><br>
+        <code>DevOps QA Engineer</code><br>
+        <code>Test Infrastructure Engineer</code><br>
+        <code>Platform QA Engineer</code>
+      </td>
+      <td align="center">
+        <h3>🌍 Work Style</h3>
+        <code>Remote</code> ✅<br>
+        <code>Hybrid</code> ✅<br>
+        <code>Relocation</code> ✅
+      </td>
+      <td align="center">
+        <h3>💡 I Bring</h3>
+        <code>QA + DevOps Skills</code><br>
+        <code>Test Infrastructure</code><br>
+        <code>Pipeline Integration</code><br>
+        <code>Team Mentorship</code>
+      </td>
+    </tr>
+  </table>
 </div>
-
--  **Mission:** Revolutionizing software quality through innovative automation
--  **Vision:** Leading the next generation of AI-driven testing practices  
--  **Passion:** Mentoring QA professionals and building testing communities
--  **Innovation:** Contributing to open-source testing tools and frameworks
 
 ---
 
-##  **Recognition Wall**
+## 🤝 **Let's Build Something Reliable Together**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabbii96&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <a href="https://www.linkedin.com/in/frabbii/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:frabbif96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801521315133" target="_blank">
+    <img src="https://img.shields.io/badge/Quick_Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=150&section=footer&animation=twinkling" />
   
-  ** "Crafting Quality, One Test at a Time" **
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3500&color=38ef7d&lines=Quality+is+not+a+phase;It's+a+feature+of+the+pipeline;Let's+make+releases+fearless!+" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Thanks+for+visiting!+;Let's+build+amazing+things+together!+;Quality+is+our+superpower!+" />
+  <br><br>
+  
+  **⚡ "I don't just find bugs — I build systems that make bugs impossible." ⚡**
+  
+  <br>
+  
+  <sub>Built with 💚 by <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | SDET & DevOps QA Engineer</sub>
   
 </div>
-
-<p align="center">
-  <i> From <a href="https://github.com/Rabbii96">Fazle Rabbi</a> | Senior SQA Engineer | Automation Architect | Quality Champion</i>
-</p>
