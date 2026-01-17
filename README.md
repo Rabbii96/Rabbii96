@@ -184,6 +184,24 @@
 
 ## 💼 **Professional Experience**
 
+### <img src="https://img.shields.io/badge/🏢-Onnorokom_Innovation-38ef7d?style=flat-square" /> **Software Engineer** | *Sep 2025 - Present*
+
+<details>
+<summary><b>🔥 Click to see my current Engineering impact</b></summary>
+<br>
+
+| What I Do | Impact |
+|------------|--------|
+| Architecting Scalable Systems | Designing high-availability infrastructure on **AWS & K8s** |
+| Advanced CI/CD Orchestration | Implementing **GitOps** workflows for seamless deployments |
+| Hybrid Engineering Role | Bridging the gap between pure development and system reliability |
+| Infrastructure as Code | Managing complex environments using **Terraform & Ansible** |
+| Performance Engineering | Scaling services to handle high-traffic production loads |
+
+</details>
+
+---
+
 ### <img src="https://img.shields.io/badge/🏢-Onnorokom_EdTech_Ltd-00d4aa?style=flat-square" /> **Software QA Engineer** | *Aug 2023 - Present*
 
 <details>
