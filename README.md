@@ -202,7 +202,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/🏢-Onnorokom_EdTech_Ltd-00d4aa?style=flat-square" /> **Software QA Engineer** | *Aug 2023 - Present*
+### <img src="https://img.shields.io/badge/🏢-Onnorokom_EdTech_Ltd-00d4aa?style=flat-square" /> **Software QA Engineer** | *Aug 2023 - Aug 2025*
 
 <details>
 <summary><b>🔥 Click to see what I built here</b></summary>
