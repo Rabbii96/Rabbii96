@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=SDET+%26+DevOps+QA+Engineer;I+Automate+What+Others+Test+Manually;Quality+%2B+Infrastructure+%3D+My+Superpower;3%2B+Years+Breaking+Software+Professionally" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=SDET+%26+DevOps+QA+Engineer;I+Automate+What+Others+Test+Manually;Quality+%2B+Infrastructure+%3D+My+Superpower;4%2B+Years+Breaking+Software+Professionally" />
 </h1>
 
 <!-- HERO BADGES -->
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/🎯_SDET-DevOps_QA_Engineer-00d4aa?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🐳_Docker-Kubernetes-2496ED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️_AWS-Cloud_Native-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_3%2B_Years-Production_Experience-ff6b6b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_4%2B_Years-Production_Experience-ff6b6b?style=for-the-badge" />
 </div>
 
 <br>
