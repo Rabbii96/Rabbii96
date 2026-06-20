@@ -49,7 +49,7 @@
 
 <table>
 <tr><td>🎯 <b>Role</b></td><td>SDET & DevOps QA Engineer</td></tr>
-<tr><td>⏱️ <b>Experience</b></td><td>3+ years in Production</td></tr>
+<tr><td>⏱️ <b>Experience</b></td><td>4+ years in Production</td></tr>
 <tr><td>🏢 <b>Company</b></td><td>Onnorokom Innovation</td></tr>
 <tr><td>📍 <b>Location</b></td><td>Bangladesh 🇧🇩</td></tr>
 <tr><td>💡 <b>Philosophy</b></td><td><i>"Quality isn't a phase — it's a pipeline feature"</i></td></tr>
